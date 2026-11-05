@@ -12,6 +12,7 @@
 	#include "map_files\Vampire\runtimetown.dmm"
 	#include "map_files\debug\multiz.dmm"
 	#include "map_files\debug\runtimestation.dmm"
+	#include "map_files\Vampire\oakland\bomby_oakland.dmm""
 	// DARKPACK EDIT CHANGE END
 #endif
 #ifdef ALL_TEMPLATES
