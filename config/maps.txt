@@ -57,11 +57,11 @@ endmap
 
 map westfieldmall
     votable
-    default
 endmap
 
 map bomby_oakland
     votable
+    default
 endmap
 
 # Debug-only maps.
