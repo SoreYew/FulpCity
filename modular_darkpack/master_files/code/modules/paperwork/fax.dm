@@ -83,10 +83,3 @@
 	fax_name = "Nightwolf Tech Shop"
 	fax_id = "glasswalkers"
 	special_networks = list(glasswalkeradmin = list(fax_name = "Nightwolf Corporate", fax_id = "glasswalkeradmin", color = "grey", emag_needed = FALSE))
-
-// FULP CITY EDIT ADD - CG #206
-/obj/machinery/fax/clinic
-	fax_name = "Saint John's Clinic"
-	fax_id = "clinic"
-	special_networks = list(clinicadmin = list(fax_name = "Saint John's Hospital", fax_id = "clinicadmin", color = "blue", emag_needed = FALSE))
-// FULP CITY EDIT ADD END - CG #206
