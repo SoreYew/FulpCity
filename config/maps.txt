@@ -73,3 +73,7 @@ endmap
 
 map runtimestation_minimal
 endmap
+
+map bomby_oakland
+    votable
+endmap
