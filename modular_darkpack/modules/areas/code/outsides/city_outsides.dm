@@ -104,3 +104,15 @@
 	musictracks = list('modular_darkpack/modules/ambience/sounds/music/giovanni_moldy_old_world.ogg')
 	zone_type = ZONE_ELYSIUM
 	fire_controled = FALSE
+
+// FULP CITY ADD START - Culture District
+/area/vtm/outside/culture
+	name = "Cultural District"
+	icon_state = "unionsquare"
+	domain = TRUE
+
+/area/vtm/outside/culture/italy
+	name = "Cultural District - Little Italy"
+	icon_state = "unionsquare"
+	domain = TRUE
+// FULP CITY ADD END - Culture District
