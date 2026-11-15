@@ -5,8 +5,6 @@
 		icon = 'fulp_modules/icons/jobs/landmarks.dmi'; \
 	}
 
-D:\Repositories\FulpCity\modular_darkpack\modules\jobs\icons\landmarks.dmi
-
 JOB_START_HELPER(primogen/brujah, JOB_PRIMOGEN_BRUJAH)
 
 #undef JOB_START_HELPER
